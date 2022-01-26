@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthik
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ...MERN full stack development
-- 📫 How to reach me ...via mail_karthikrajanavalarch@gmail.com
+- 📫 How to reach me ...via mail karthikrajanavalarch@gmail.com
 
 <!---
 karthichillz/karthichillz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
